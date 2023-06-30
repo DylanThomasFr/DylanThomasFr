@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DylanThomasFr
+- 👋 Hi, I’m Dylan Thomas (Not the poet)
 - 👀 I’m interested in otters 🦦
 - 🌱 I’m currently learning JS based and DevOps technologies
 - 💞️ I’m looking to collaborate on crepes cooking 🥞
